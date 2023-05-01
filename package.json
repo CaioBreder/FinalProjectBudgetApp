@@ -1,0 +1,19 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "Final Project",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "final": "^0.2.0",
+    "project": "^0.1.6",
+    "project-cli": "^0.1.1",
+    "style-loader": "^3.3.2"
+  }
+}
